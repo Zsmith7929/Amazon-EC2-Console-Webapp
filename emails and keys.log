@@ -1,0 +1,2 @@
+EMAILS = ["smith7929@yahoo.com","smith7929@gmail.com","effinjon@gmail.com","raymondwinder@gmail.com"]
+conn = boto.ec2.connect_to_region("us-west-1", aws_access_key_id="AKIAJVZU7MJ2OPM76ARQ", aws_secret_access_key="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")
